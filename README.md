@@ -7,8 +7,8 @@ An unofficial Android app for [add1.link](https://add1.link)
 - Login
 - Show all links
 - Add link by sharing or manual input
-- Open source page via webview
-- Share source page to other apps
+- Open link via webview
+- Share link to other apps
 
 ## TODO
 
