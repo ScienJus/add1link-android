@@ -1,0 +1,11 @@
+query FeedQuery($beforeTimestamp: String, $limit: Int) {
+  feed(beforeTimestamp: $beforeTimestamp, limit: $limit) {
+    links {
+      id
+      url
+      title
+      createdAt
+    }
+    nextTimestamp
+  }
+}
